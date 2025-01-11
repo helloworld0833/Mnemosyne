@@ -12,4 +12,4 @@ After a single click on the "Next" button, Mnemosyne subtracts 1 from the priori
 
 If feeling trouble with recalling the meaning(s), single click on the "Show Meaning" button, Mnemosyne will show the meaning(s) as you wish.
 
-After a single click on the "Know" button, Mnemosyne divides the priority number of the current word by 10, then shows the next word, which can be another word or the current word, depending on who has the highest priority.
+After a single click on the "Know" button, Mnemosyne divides the priority number of the current word by 10 and shows the next word, which can be another word or the current word, depending on which word has the highest priority.
